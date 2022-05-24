@@ -1,0 +1,41 @@
+.buttonEntrar{
+    color: black;
+    border-color: black;
+    font-weight: 500;
+}
+
+.buttonEntrar:hover{
+    background-color: black;
+}
+
+.buttonAbrirConta{
+    font-weight: 500;
+}
+
+.buttonAbrirConta:hover{
+    color: black;
+}
+
+.buttonSaibaMais{
+    font-weight: 500;
+    padding-left: 1.4rem;
+    padding-right: 1.4rem;
+    background-color: #ff471a;
+    border-color: #ff471a;
+}
+
+.buttonSaibaMais:hover{
+    background-color: #FE1D59;
+    border-color: #ff471a;
+}
+
+.buttonAbrirConta2{
+    font-weight: 500;
+    color: white;
+    border-color: #FE1D59;
+}
+
+.buttonAbrirConta2:hover{
+    background-color: #FE1D59;
+    border-color: #FE1D59;
+}

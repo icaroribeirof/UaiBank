@@ -1,0 +1,35 @@
+body, html{
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    color: white;
+}
+
+#header{
+    width: 100%;
+    background-image: url('../img/newbcgk.png');
+    background-size: 100%;
+    transition: background ease-out 2.s;
+}
+
+#header .navbar-collapse{
+    width: auto;
+}
+
+#header .nav-link{
+    text-transform: uppercase;
+    font-weight: 500;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: black;
+    border-bottom: solid 4px transparent;
+}
+
+#header .nav-link:hover{
+    border-bottom: solid 4px black;
+}
+
+#header .dropdown-item:hover{
+    background-color: #ff471a;
+}
