@@ -1,5 +1,5 @@
 # UaiBank
-UaiBank, o banco dos mineiros!
+UaiBank, o Banco dos Mineiros!
 
 O UaiBank consiste em um projeto escolar, partindo de:
 
